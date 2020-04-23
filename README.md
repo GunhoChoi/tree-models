@@ -17,3 +17,5 @@ Let's learn from simple tree models to XGBoooooost
 9. Gradient Boost Part 3 - Classification: https://www.youtube.com/watch?v=jxuNLH5dXCs
 10. Gradient Boost Part 4 - Classification Details: https://www.youtube.com/watch?v=StWY5QWMXCw  
   -> 수식 파티! 예~
+
+11. XGBoost Part 1: XGBoost Trees for Regression: https://www.youtube.com/watch?v=OtD8wVaFm6E
