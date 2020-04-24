@@ -22,4 +22,4 @@ Let's learn from simple tree models to XGBoooooost
 13. XGBoost Part 3: Mathematical Details: https://www.youtube.com/watch?v=ZVFeW798-2I
 
 
-![Alt text](XGBoost NLL to odds.jpg)
+![Alt text](https://github.com/GunhoChoi/tree-models/blob/master/XGBoost%20NLL%20to%20odds.jpg)
