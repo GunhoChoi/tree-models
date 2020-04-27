@@ -2,6 +2,12 @@
 Let's learn from simple tree models to XGBoooooost
 
 
+## 공식링크
+
+1. 공식 도큐먼트: https://xgboost.readthedocs.io/en/latest/index.html
+2. Awesome XGBoost: https://github.com/dmlc/xgboost/tree/master/demo
+
+
 ## 강의
 
 1. XGBoost Regressor: https://www.youtube.com/watch?v=OtD8wVaFm6E
