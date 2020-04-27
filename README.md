@@ -26,6 +26,8 @@ Let's learn from simple tree models to XGBoooooost
 11. XGBoost Part 1: XGBoost Trees for Regression: https://www.youtube.com/watch?v=OtD8wVaFm6E
 12. XGBoost Part 2: XGBoost Trees For Classification: https://www.youtube.com/watch?v=8b1JEDvenQU 
 13. XGBoost Part 3: Mathematical Details: https://www.youtube.com/watch?v=ZVFeW798-2I
+14. XGBoost Part 4: Crazy Cool Optimizations: https://www.youtube.com/watch?v=oRrKeUCEbq8  
+-> Sketch Algorithm(?) 여기 내용들은 나중에 실제로 최적화를 해봐야 공감 및 이해가 될듯
 
 
 ![Alt text](https://github.com/GunhoChoi/tree-models/blob/master/XGBoost%20NLL%20to%20odds.jpg)
