@@ -8,6 +8,12 @@ Let's learn from simple tree models to XGBoooooost
 2. Awesome XGBoost: https://github.com/dmlc/xgboost/tree/master/demo
 
 
+## 튜토리얼
+
+1. Using XGBoost in Python: https://www.datacamp.com/community/tutorials/xgboost-in-python
+
+
+
 ## 강의
 
 1. XGBoost Regressor: https://www.youtube.com/watch?v=OtD8wVaFm6E
