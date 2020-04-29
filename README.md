@@ -13,6 +13,10 @@ Let's learn from simple tree models to XGBoooooost
 1. Using XGBoost in Python: https://www.datacamp.com/community/tutorials/xgboost-in-python
 
 
+## 코드
+
+1.Pure Python implementation of Gradient Boosted Trees: https://github.com/dimleve/tinygbt 
+
 
 ## 강의
 
