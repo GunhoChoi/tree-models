@@ -15,7 +15,7 @@ Let's learn from simple tree models to XGBoooooost
 
 ## 코드
 
-1.Pure Python implementation of Gradient Boosted Trees: https://github.com/dimleve/tinygbt 
+1. Pure Python implementation of Gradient Boosted Trees: https://github.com/dimleve/tinygbt 
 
 
 ## 강의
