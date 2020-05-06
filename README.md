@@ -5,8 +5,8 @@ Let's learn from simple tree models to XGBoooooost
 ## 용어 정의
 
 1. Output Value
-2. Similarity Score
-3. Residual
+2. Residual
+3. Similarity Score
 4. Gain
 5. Gamma(γ)
 6. Lambda(λ)
