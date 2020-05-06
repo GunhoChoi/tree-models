@@ -18,10 +18,10 @@ Let's learn from simple tree models to XGBoooooost
 2. Awesome XGBoost: https://github.com/dmlc/xgboost/tree/master/demo
 
 
-## 튜토리얼
+## 블로그 & 튜토리얼
 
 1. Using XGBoost in Python: https://www.datacamp.com/community/tutorials/xgboost-in-python
-
+2. XGBoost is not black magic(feat. missing value): https://towardsdatascience.com/xgboost-is-not-black-magic-56ca013144b4 
 
 ## 코드
 
