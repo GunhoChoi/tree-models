@@ -4,7 +4,14 @@ Let's learn from simple tree models to XGBoooooost
 
 ## 용어 정의
 
-1. Weight: 
+1. Weight
+2. Output Value
+3. Similarity Score
+4. Residual
+5. Gain
+6. Gamma
+7. Lambda
+
 
 
 ## 공식링크
