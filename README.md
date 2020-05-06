@@ -2,6 +2,11 @@
 Let's learn from simple tree models to XGBoooooost
 
 
+## 용어 정의
+
+1. Weight: 
+
+
 ## 공식링크
 
 1. 공식 도큐먼트: https://xgboost.readthedocs.io/en/latest/index.html
