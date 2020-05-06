@@ -9,8 +9,8 @@ Let's learn from simple tree models to XGBoooooost
 3. Similarity Score
 4. Residual
 5. Gain
-6. Gamma
-7. Lambda
+6. Gamma(γ)
+7. Lambda(λ)
 
 
 
