@@ -23,9 +23,11 @@ Let's learn from simple tree models to XGBoooooost
 1. Using XGBoost in Python: https://www.datacamp.com/community/tutorials/xgboost-in-python
 2. XGBoost is not black magic(feat. missing value): https://towardsdatascience.com/xgboost-is-not-black-magic-56ca013144b4 
 
+
 ## 코드
 
-1. Pure Python implementation of Gradient Boosted Trees: https://github.com/dimleve/tinygbt 
+1. Pure Python implementation of Gradient Boosted Trees: https://github.com/dimleve/tinygbt  
+  -> [최건호가 주석 달아놓은 코드](./tiny-gbt)
 
 
 ## 강의
@@ -49,5 +51,4 @@ Let's learn from simple tree models to XGBoooooost
 14. XGBoost Part 4: Crazy Cool Optimizations: https://www.youtube.com/watch?v=oRrKeUCEbq8  
 -> Sketch Algorithm(?) 여기 내용들은 나중에 실제로 최적화를 해봐야 공감 및 이해가 될듯
 
-
-![Alt text](https://github.com/GunhoChoi/tree-models/blob/master/XGBoost%20NLL%20to%20odds.jpg)
+<img src="./img/XGBoost%20NLL%20to%20odds.jpg" width="400">
