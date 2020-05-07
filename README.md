@@ -4,8 +4,10 @@ Let's learn from simple tree models to XGBoooooost
 
 ## XGBoost만의 장점이 뭘까?
 
-1. Missing Value Imputation: https://towardsdatascience.com/xgboost-is-not-black-magic-56ca013144b4
+### Missing Value Imputation
 
+1. XGBoost is not black magic: https://towardsdatascience.com/xgboost-is-not-black-magic-56ca013144b4
+2. StatQuest: Random Forests Part 2: Missing data and clustering: https://www.youtube.com/watch?v=sQ870aTKqiM
 
 
 ## 용어 정의
