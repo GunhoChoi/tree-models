@@ -2,6 +2,11 @@
 Let's learn from simple tree models to XGBoooooost
 
 
+## XGBoost만의 장점이 뭘까?
+
+- Missing Value Imputation: https://towardsdatascience.com/xgboost-is-not-black-magic-56ca013144b4
+
+
 ## 용어 정의
 
 1. Output Value
