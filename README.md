@@ -10,6 +10,7 @@ Let's learn from simple tree models to XGBoooooost
 2. StatQuest: Random Forests Part 2: Missing data and clustering: https://www.youtube.com/watch?v=sQ870aTKqiM
 
 
+
 ## 용어 정의
 
 1. Output Value
