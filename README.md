@@ -13,15 +13,19 @@ Let's learn from simple tree models to XGBoooooost
 
 ## \<Keywords\>
 
-1. Pruning
-2. Impurity
-
+1. Information Gain & Impurity
+2 Pruning
 
 
 ## \<Metrics\>
 
 1. Entropy & Information Gain: https://towardsdatascience.com/entropy-how-decision-trees-make-decisions-2946b9c18c8
 2. Gini Impurity
+
+
+## \<Pruning\>
+
+1. Cost Complexity Pruning
 
 
 ### XGBoost 용어 정의
