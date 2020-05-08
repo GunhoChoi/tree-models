@@ -1,13 +1,9 @@
 # tree-models
 Let's learn from simple tree models to XGBoooooost
 
-
-
-
+## \<CART: Classification & Regression Tree\>
 
 ## Classification Tree
-
-
 
 ## Regression Tree
 
@@ -21,7 +17,7 @@ Let's learn from simple tree models to XGBoooooost
 2. Gini Impurity
 
 
-## Keywords
+## \<Keywords\>
 
 1. Pruning
 
