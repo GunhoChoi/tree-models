@@ -20,6 +20,7 @@ Let's learn from simple tree models to XGBoooooost
 ## Regression Tree
 
 1. Regression Trees, Clearly Explained!!! :  https://www.youtube.com/watch?v=g9c66TUylZ4  
+2. How to Prune Regression Trees, Clearly Explained!!!: https://www.youtube.com/watch?v=D0efHEJsfHo
 
 
 ## XGBoost 용어 정의
