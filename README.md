@@ -3,6 +3,8 @@ Let's learn from simple tree models to XGBoooooost
 
 
 
+
+
 ## Classification Tree
 
 
@@ -16,9 +18,14 @@ Let's learn from simple tree models to XGBoooooost
 ## Metrics
 
 1. Entropy & Information Gain: https://towardsdatascience.com/entropy-how-decision-trees-make-decisions-2946b9c18c8
+2. Gini Impurity
 
 
-## XGBoost 용어 정의
+## Keywords
+
+1. Pruning
+
+### XGBoost 용어 정의
 
 1. Output Value
 2. Residual
