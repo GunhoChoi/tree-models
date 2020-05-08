@@ -10,8 +10,10 @@ Let's learn from simple tree models to XGBoooooost
 -> 이 과정을 converge 할 때까지 반복함
 
 
+## 
 
-## 용어 정의
+
+## XGBoost 용어 정의
 
 1. Output Value
 2. Residual
