@@ -7,8 +7,8 @@ Let's learn from simple tree models to XGBoooooost
 
 #### 2. Regression Tree
 
-1. Regression Trees, Clearly Explained!!! :  https://www.youtube.com/watch?v=g9c66TUylZ4  
-2. How to Prune Regression Trees, Clearly Explained!!!: https://www.youtube.com/watch?v=D0efHEJsfHo
+1) Regression Trees, Clearly Explained!!! :  https://www.youtube.com/watch?v=g9c66TUylZ4  
+2) How to Prune Regression Trees, Clearly Explained!!!: https://www.youtube.com/watch?v=D0efHEJsfHo
 
 
 ## \<Keywords\>
