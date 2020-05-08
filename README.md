@@ -3,23 +3,26 @@ Let's learn from simple tree models to XGBoooooost
 
 ## \<CART: Classification & Regression Tree\>
 
-## Classification Tree
+#### Classification Tree
 
-## Regression Tree
+#### Regression Tree
 
 1. Regression Trees, Clearly Explained!!! :  https://www.youtube.com/watch?v=g9c66TUylZ4  
 2. How to Prune Regression Trees, Clearly Explained!!!: https://www.youtube.com/watch?v=D0efHEJsfHo
 
 
-## Metrics
+## \<Keywords\>
+
+1. Pruning
+2. Impurity
+
+
+
+## \<Metrics\>
 
 1. Entropy & Information Gain: https://towardsdatascience.com/entropy-how-decision-trees-make-decisions-2946b9c18c8
 2. Gini Impurity
 
-
-## \<Keywords\>
-
-1. Pruning
 
 ### XGBoost 용어 정의
 
