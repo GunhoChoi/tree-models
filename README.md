@@ -2,16 +2,6 @@
 Let's learn from simple tree models to XGBoooooost
 
 
-## Missing Value Imputation
-
-1. XGBoost is not black magic: https://towardsdatascience.com/xgboost-is-not-black-magic-56ca013144b4
-2. StatQuest: Random Forests Part 2: Missing data and clustering: https://www.youtube.com/watch?v=sQ870aTKqiM  
-
-   -> proximity matrix: 샘플 x 샘플 matrix로 m 샘플과 n 샘플이 같은 leaf에서 끝나면 (m,n) (n,m)에 1을 더하고 이 프로세스를 전체 tree 개수에 대해 진행함.  
-   
-   -> 이 과정을 converge 할 때까지 반복함
-3. StatQuest: Decision Trees, Part 2 - Feature Selection and Missing Data: https://www.youtube.com/watch?v=wpNl-JwwplA
-
 
 ## Classification Tree
 
@@ -23,6 +13,11 @@ Let's learn from simple tree models to XGBoooooost
 2. How to Prune Regression Trees, Clearly Explained!!!: https://www.youtube.com/watch?v=D0efHEJsfHo
 
 
+## Metrics
+
+1. Entropy & Information Gain: https://towardsdatascience.com/entropy-how-decision-trees-make-decisions-2946b9c18c8
+
+
 ## XGBoost 용어 정의
 
 1. Output Value
@@ -31,6 +26,19 @@ Let's learn from simple tree models to XGBoooooost
 4. Gain
 5. Gamma(γ)
 6. Lambda(λ)
+
+
+
+## Missing Value Imputation
+
+1. XGBoost is not black magic: https://towardsdatascience.com/xgboost-is-not-black-magic-56ca013144b4
+2. StatQuest: Random Forests Part 2: Missing data and clustering: https://www.youtube.com/watch?v=sQ870aTKqiM  
+
+   -> proximity matrix: 샘플 x 샘플 matrix로 m 샘플과 n 샘플이 같은 leaf에서 끝나면 (m,n) (n,m)에 1을 더하고 이 프로세스를 전체 tree 개수에 대해 진행함.  
+   
+   -> 이 과정을 converge 할 때까지 반복함
+3. StatQuest: Decision Trees, Part 2 - Feature Selection and Missing Data: https://www.youtube.com/watch?v=wpNl-JwwplA
+
 
 
 ## 공식링크
