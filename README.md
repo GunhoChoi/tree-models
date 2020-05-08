@@ -13,8 +13,13 @@ Let's learn from simple tree models to XGBoooooost
 3. StatQuest: Decision Trees, Part 2 - Feature Selection and Missing Data: https://www.youtube.com/watch?v=wpNl-JwwplA
 
 
+## Classification Tree
 
-## 
+
+
+## Regression Tree
+
+1. Regression Trees, Clearly Explained!!! :  https://www.youtube.com/watch?v=g9c66TUylZ4  
 
 
 ## XGBoost 용어 정의
