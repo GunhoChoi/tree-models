@@ -25,7 +25,8 @@ Let's learn from simple tree models to XGBoooooost
 
 ## \<Pruning\>
 
-1. Cost Complexity Pruning
+1. Cost Complexity Pruning  
+  -> Sum of Squared Residuals(SST)을 계산해서 
 
 
 ### XGBoost 용어 정의
