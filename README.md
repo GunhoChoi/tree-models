@@ -63,18 +63,19 @@ Let's learn from simple tree models to XGBoooooost
 
 4. Random Forests Part 1: https://www.youtube.com/watch?v=J4Wdy0Wc_xQ
 5. Random Forests Part 2: https://www.youtube.com/watch?v=nyxTdL_4Q-Q -> 나중에 다시 보자
+
 6. Adaboost: https://www.youtube.com/watch?v=LsK-xG1cLYA  
   -> Decision Node 가 하나인 depth=1인 tree를 서로 다른 가중치로 순서대로 배열한것.  
   -> 각 tree power는 작지만 이걸 이어붙이면 나름 쓸만하다.
+  
 7. Gradient Boost Part 1: https://www.youtube.com/watch?v=3CC4N4z3GJc
 8. Gradient Boost Part 2 - Regression: https://www.youtube.com/watch?v=2xudPOBz-vs
 9. Gradient Boost Part 3 - Classification: https://www.youtube.com/watch?v=jxuNLH5dXCs
 10. Gradient Boost Part 4 - Classification Details: https://www.youtube.com/watch?v=StWY5QWMXCw  
   -> 수식 파티! 예~
+  
 11. XGBoost Part 1: XGBoost Trees for Regression: https://www.youtube.com/watch?v=OtD8wVaFm6E
 12. XGBoost Part 2: XGBoost Trees For Classification: https://www.youtube.com/watch?v=8b1JEDvenQU 
 13. XGBoost Part 3: Mathematical Details: https://www.youtube.com/watch?v=ZVFeW798-2I
 14. XGBoost Part 4: Crazy Cool Optimizations: https://www.youtube.com/watch?v=oRrKeUCEbq8  
 -> Sketch Algorithm(?) 여기 내용들은 나중에 실제로 최적화를 해봐야 공감 및 이해가 될듯
-
-<img src="./img/XGBoost%20NLL%20to%20odds.jpg" width="400">
