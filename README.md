@@ -14,7 +14,7 @@ Let's learn from simple tree models to XGBoooooost
 ## \<Keywords\>
 
 1. Information Gain & Impurity
-2 Pruning
+2. Pruning
 
 
 ## \<Metrics\>
