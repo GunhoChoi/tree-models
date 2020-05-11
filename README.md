@@ -83,7 +83,7 @@ Let's learn from simple tree models to XGBoooooost
 3. Decision tree: https://www.youtube.com/watch?v=7VeUPuFGJHk
 
 
-### Decision Tree
+#### Decision Tree
 
 
 1. Decision tree: https://www.youtube.com/watch?v=7VeUPuFGJHk
@@ -91,7 +91,7 @@ Let's learn from simple tree models to XGBoooooost
 2. StatQuest: Decision Trees, Part 2 - Feature Selection and Missing Data :   https://www.youtube.com/watch?v=wpNl-JwwplA
 
 
-### Random Forest
+#### Random Forest
 
 
 1. Random Forests Part 1: https://www.youtube.com/watch?v=J4Wdy0Wc_xQ
@@ -99,7 +99,7 @@ Let's learn from simple tree models to XGBoooooost
 2. Random Forests Part 2: https://www.youtube.com/watch?v=nyxTdL_4Q-Q -> 나중에 다시 보자
 
 
-### Boosting
+#### Boosting
 
 
 1. Adaboost: https://www.youtube.com/watch?v=LsK-xG1cLYA  
@@ -115,7 +115,7 @@ Let's learn from simple tree models to XGBoooooost
 5. Gradient Boost Part 4 - Classification Details: https://www.youtube.com/watch?v=StWY5QWMXCw  
   -> 수식 파티! 예~
   
-### XGBoost
+#### XGBoost
   
 1. XGBoost Part 1: XGBoost Trees for Regression: https://www.youtube.com/watch?v=OtD8wVaFm6E
 
