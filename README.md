@@ -87,8 +87,9 @@ Let's learn from simple tree models to XGBoooooost
 
 
 1. Decision tree: https://www.youtube.com/watch?v=7VeUPuFGJHk
-
 2. StatQuest: Decision Trees, Part 2 - Feature Selection and Missing Data :   https://www.youtube.com/watch?v=wpNl-JwwplA
+3. Regression Trees, Clearly Explained!!! : https://youtu.be/g9c66TUylZ4
+4. How to Prune Regression Trees, Clearly Explained!!!: https://youtu.be/D0efHEJsfHo
 
 
 #### Random Forest
