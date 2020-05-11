@@ -1,7 +1,7 @@
 # tree-models
 Let's learn from simple tree models to XGBoooooost
 
-## \<CART: Classification & Regression Tree\>
+## \<CART: Classification & Regression Tree\>  
 
 #### 1. Classification Tree
 
@@ -29,7 +29,7 @@ Let's learn from simple tree models to XGBoooooost
   -> Sum of Squared Residuals(SST)을 계산해서 
 
 
-### XGBoost 용어 정의
+### \<XGBoost 용어 정의\>
 
 1. Output Value
 2. Residual
@@ -40,7 +40,7 @@ Let's learn from simple tree models to XGBoooooost
 
 
 
-## Missing Value Imputation
+## \<Missing Value Imputation\>
 
 1. XGBoost is not black magic: https://towardsdatascience.com/xgboost-is-not-black-magic-56ca013144b4
 2. StatQuest: Random Forests Part 2: Missing data and clustering: https://www.youtube.com/watch?v=sQ870aTKqiM  
@@ -54,25 +54,25 @@ Let's learn from simple tree models to XGBoooooost
 
 
 
-## 공식링크
+## \<공식링크\>
 
 1. 공식 도큐먼트: https://xgboost.readthedocs.io/en/latest/index.html
 2. Awesome XGBoost: https://github.com/dmlc/xgboost/tree/master/demo
 
 
-## 블로그 & 튜토리얼
+## \<블로그 & 튜토리얼\>
 
 1. Using XGBoost in Python: https://www.datacamp.com/community/tutorials/xgboost-in-python
 2. XGBoost is not black magic(feat. missing value): https://towardsdatascience.com/xgboost-is-not-black-magic-56ca013144b4 
 
 
-## 코드
+## \<코드\>
 
 1. Pure Python implementation of Gradient Boosted Trees: https://github.com/dimleve/tinygbt  
   -> [최건호가 주석 달아놓은 코드](./tiny-gbt)
 
 
-## 강의
+## \<강의\>
 
 뭐부터 해야할지 잘 모르겠어서 최종단계부터 모르는 부분 나오면 링크 타고 내려감
 
@@ -83,7 +83,7 @@ Let's learn from simple tree models to XGBoooooost
 3. Decision tree: https://www.youtube.com/watch?v=7VeUPuFGJHk
 
 
-### Decision Tree
+### \<Decision Tree\>
 
 
 1. Decision tree: https://www.youtube.com/watch?v=7VeUPuFGJHk
@@ -91,7 +91,7 @@ Let's learn from simple tree models to XGBoooooost
 2. StatQuest: Decision Trees, Part 2 - Feature Selection and Missing Data :   https://www.youtube.com/watch?v=wpNl-JwwplA
 
 
-### Random Forest
+### \<Random Forest\>
 
 
 1. Random Forests Part 1: https://www.youtube.com/watch?v=J4Wdy0Wc_xQ
@@ -99,7 +99,7 @@ Let's learn from simple tree models to XGBoooooost
 2. Random Forests Part 2: https://www.youtube.com/watch?v=nyxTdL_4Q-Q -> 나중에 다시 보자
 
 
-### Boosting 
+### \<Boosting\>
 
 
 1. Adaboost: https://www.youtube.com/watch?v=LsK-xG1cLYA  
@@ -115,7 +115,7 @@ Let's learn from simple tree models to XGBoooooost
 5. Gradient Boost Part 4 - Classification Details: https://www.youtube.com/watch?v=StWY5QWMXCw  
   -> 수식 파티! 예~
   
-### XGBoost
+### \<XGBoost\>
   
 1. XGBoost Part 1: XGBoost Trees for Regression: https://www.youtube.com/watch?v=OtD8wVaFm6E
 
