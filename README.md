@@ -48,6 +48,8 @@ Let's learn from simple tree models to XGBoooooost
    -> proximity matrix: 샘플 x 샘플 matrix로 m 샘플과 n 샘플이 같은 leaf에서 끝나면 (m,n) (n,m)에 1을 더하고 이 프로세스를 전체 tree 개수에 대해 진행함.  
    
    -> 이 과정을 converge 할 때까지 반복함
+   -> EM 알고리즘 
+   
 3. StatQuest: Decision Trees, Part 2 - Feature Selection and Missing Data: https://www.youtube.com/watch?v=wpNl-JwwplA
 
 
