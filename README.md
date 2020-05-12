@@ -126,3 +126,10 @@ Let's learn from simple tree models to XGBoooooost
 
 4. XGBoost Part 4: Crazy Cool Optimizations: https://www.youtube.com/watch?v=oRrKeUCEbq8  
 -> Sketch Algorithm(?) 여기 내용들은 나중에 실제로 최적화를 해봐야 공감 및 이해가 될듯
+
+
+## \<코드 뜯어보기\>
+
+### Scikit-learn Tree
+
+
