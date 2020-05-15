@@ -133,3 +133,6 @@ Let's learn from simple tree models to XGBoooooost
 ### Scikit-learn Tree
 
 
+## \<한글 자료들\>
+
+1. Boosting 기법 이해: https://www.slideshare.net/freepsw/boosting-bagging-vs-boosting
